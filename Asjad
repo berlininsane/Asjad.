@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Asjad Trading Journey</title>
+<style>
+body{
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+}
+
+header{
+background:#0a58ca;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav{
+background:#222;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+font-weight:bold;
+}
+
+section{
+padding:30px;
+}
+
+footer{
+background:#0a58ca;
+color:white;
+text-align:center;
+padding:15px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Asjad Trading Journey</h1>
+<p>Learning Trading Step by Step</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">About</a>
+<a href="#">Blog</a>
+<a href="#">Contact</a>
+</nav>
+
+<section>
+<h2>About Me</h2>
+<p>
+I am a 17-year-old student who has developed a strong interest in trading and financial markets. 
+This website is where I share my learning journey, trading concepts, and experiences as I explore 
+the world of stocks and financial growth. My goal is to learn, stay disciplined, and build strong 
+knowledge about trading while continuing my education.
+</p>
+</section>
+
+<footer>
+<p>© 2026 Asjad | Trading Learning Website</p>
+</footer>
+
+</body>
+</html>
